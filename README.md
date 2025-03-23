@@ -1,6 +1,6 @@
 # Nome do projeto
 
-`CURSO: Coloque o nome do curso aqui, sem abreviações`
+Tecnologia em Análise e Desenvolvimento de Sistemas
 
 `DISCIPLINA: Trabalho Interdisciplinar Aplicações Web`
 
@@ -10,16 +10,15 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Integrantes
 
-* Kaio Novais Neevs Alves
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Kaio Novais Neves Alves
+* Geovanne Malaquias Diniz
+* Lucas Malfacinu Fitelmam
+* Guilherme Cândido Vidulino
+* Gustavo Henrique Teixeira de Souza Batista
 
 ## Professor
 
-* Nome completo do(a) professor(a)
+* Jardell Fillipe da Silva
 
 ## Instruções de utilização
 
